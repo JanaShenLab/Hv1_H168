@@ -1,4 +1,4 @@
-#**Interior pH Sensing Residue of Human Voltage-Gated Proton Channel Hv<sub>1</sub> is Histidine 168**
+# **Interior pH Sensing Residue of Human Voltage-Gated Proton Channel Hv<sub>1</sub> is Histidine 168**
 
 Mingzhe Shen, Yandong Huang*, Zhitao Cai, Vladimir V. Cherny, Thomas E. DeCoursey, and Jana Shen*
 
